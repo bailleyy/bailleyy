@@ -4,4 +4,6 @@ I am Bailey a developer specialized in Roblox Development, JavaScript and Typesc
 
 I don't have much of my work on public repos, but I have contributed to many things.
 
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
